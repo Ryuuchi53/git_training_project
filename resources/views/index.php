@@ -6,7 +6,7 @@
     <title>Dashboard</title>
 </head>
 <body>
-    <?php indexController(); ?>
     <p>Welcome to the Dashboard</p>
+    <?php indexController(); ?>
 </body>
 </html>

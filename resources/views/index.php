@@ -6,9 +6,6 @@
     <title>Dashboard</title>
 </head>
 <body>
-    <?php 
-        include_once 'app/http/controllers/indexController.php';
-        indexController();
-    ?>
+    <p>Welcome to the Dashboard</p>
 </body>
 </html>

@@ -1,4 +1,3 @@
-<?php include_once 'app/http/controllers/indexController.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
